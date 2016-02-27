@@ -1,2 +1,2 @@
-# nodeschool
-NodeSchool Workshoppers
+# NodeSchool
+> NodeSchool Workshoppers
