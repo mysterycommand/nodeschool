@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/mysterycommand/nodeschool/issues"
   },
-  "homepage": "https://github.com/mysterycommand/nodeschool#readme"
+  "homepage": "https://github.com/mysterycommand/nodeschool#readme",
+  "devDependencies": {
+    "web-audio-school": "^1.2.1"
+  }
 }
